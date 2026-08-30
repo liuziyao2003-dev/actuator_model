@@ -1,4 +1,3 @@
 # actuator_model
 
-reference
-  https://github.com/Rhoban/bam
+reference：https://github.com/Rhoban/bam
